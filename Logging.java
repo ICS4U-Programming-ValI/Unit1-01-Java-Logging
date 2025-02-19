@@ -1,16 +1,16 @@
 import java.util.Scanner;
 
 /**
- * The MathOperators program implements an application that
- * performs basic math operations including addition, subtraction,
- * multiplication, division, exponents, and square roots.
+ * Calculates how many logs can fit in a truck
+ * Which can carry up to 1100 kg
+ * with possible log sizes of 0.25 m, 0.5 m or 1m.
  *
  * <p>This class demonstrates proper JavaDoc formatting and usage of
  * various math operations.</p>
  *
  * @author Val I
  * @version 1.0
- * @since 2025-02-11
+ * @since 2025-02-18
  */
 public final class Logging {
 
