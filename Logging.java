@@ -59,7 +59,7 @@ public final class Logging {
                 System.out.print("The truck can carry " + LOGAMOUNT);
                 System.out.println(" logs");
             } else {
-                System.out.print("This is not one of the log lengths.");
+                System.out.println("This is not one of the log lengths.");
             }
         } catch (NumberFormatException ex) {
             // Handles error.
